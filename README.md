@@ -26,13 +26,10 @@ Before you begin, ensure you have met the following requirements:
 ## Installation and Execution
 
 1. Clone the repository:
-git clone https://github.com/yourusername/restaurant-list.git
-
-   Replace `yourusername` with your GitHub username.
+git clone https://github.com/chien333666/restaurant-list.git
 
 2. Navigate to the project directory:
 cd restaurant-list
-
 
 3. Install the dependencies:
 npm install
