@@ -6,26 +6,26 @@ A web application that I use to keep track of my favourite restaurants.
 ![image](https://github.com/chien333666/restaurant-list/blob/main/public/img/homepage.jpg)
 
 ## Features
-- Users can see all the restaurants and their brief information on the homepage:
-    Photo of the restaurant
-    Restaurant Name
-    Category
-    Restaurant rating
-- Users can click further to see more information about the restaurant:
-    Category
-    Address
-    Phone number
-    Description
-    Picture
-- Users can find a specific restaurant by searching for the name of the restaurant.
-- Users can find a specific restaurant by searching for the type of restaurant.
+1. Users can see all the restaurants and their brief information on the homepage:
+  - Photo of the restaurant
+  - Restaurant Name
+  - Category
+  - Restaurant rating
+2. Users can click further to see more information about the restaurant:
+  - Category
+  - Address
+  - Phone number
+  - Description
+  - Picture
+3. Users can find a specific restaurant by searching for the name of the restaurant.
+4. Users can find a specific restaurant by searching for the type of restaurant.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed Node.js and npm. Node.js is a JavaScript runtime that is required to run the server-side code. npm is a package manager for Node.js that is used to install dependencies.
-- You have a basic understanding of JavaScript and Node.js.
+1. You have installed Node.js and npm. Node.js is a JavaScript runtime that is required to run the server-side code. npm is a package manager for Node.js that is used to install dependencies.
+2. You have a basic understanding of JavaScript and Node.js.
 
 ## Installation and Execution
 
