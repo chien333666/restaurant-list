@@ -5,6 +5,8 @@ A web application that I use to keep track of my favourite restaurants.
 
 ![image](https://github.com/chien333666/restaurant-list/blob/main/public/img/homepage.jpg)
 
+![image](https://github.com/chien333666/restaurant-list/blob/main/public/img/detail.png)
+
 ## Features
 1. Users can see all the restaurants and their brief information on the homepage:
   - Photo of the restaurant
