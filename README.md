@@ -1,6 +1,10 @@
 # Restaurant List
 A web application that I use to keep track of my favourite restaurants.
 
+## Project Screenshot
+
+![image](https://https://github.com/chien333666/restaurant-list/tree/main/public/img/homepage.jpg)
+
 ## Features
 - Users can see all the restaurants and their brief information on the homepage:
     Photo of the restaurant
